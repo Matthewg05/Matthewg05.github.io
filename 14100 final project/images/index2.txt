@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style2.css">
+	<title>sonic 1 description</title>
+
+</head>
+<body>
+
+	<div class="container">
+		<header>
+			<h1>Sonic the Hedgehog Fan Encyclopedia <img src="images/banner 1.jpg" alt="Heading Image"></h1>
+		</header>
+
+
+<div class="top-box">
+</div>
+
+		<div class="coulumns">
+
+
+			
+
+
+			<div class="main-box">
+				<section>
+					<h2>
+<img src="images/s1.jpg" alt="image1">
+<p>
+				
+</p>
+</h2>
+				</section>
+
+                           </div>
+                      </div>
+</body>
+</html>

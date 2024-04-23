@@ -1,0 +1,41 @@
+
+ body {
+  background-color: #d63434;
+}
+
+.main-box {
+  border: 8px solid gold;
+  background-color: #d63434;
+}
+
+.heading-style {
+  font-family: 'NiseSegaSonic', sans-serif;
+  font-size: 24px;
+  color: #000000;
+  margin-left: 5px;
+}
+
+.top-box {
+  border: 8px solid gold;
+  background-color: #ffffff;
+}
+
+p {
+  font-size: 18pt;
+  color: black;
+  font-family: 'Times New Roman', sans-serif;
+  line-height: 120%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.img-fluid {
+  transition: transform 0.3s, filter 0.3s;
+}
+
+.img-fluid:hover {
+  transform: scale(1.1); /* Zoom in effect */
+  filter: brightness(120%) saturate(0%) hue-rotate(0deg); /* Adjust these values as needed for color change */
+}
